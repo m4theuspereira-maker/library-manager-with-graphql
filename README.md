@@ -1,3 +1,5 @@
+Following the concept of applications in graphQL, i made this simple api to practice what i've lerned recently. It was the firts of many commits of this project that i plan code and to turn it more and more scalable 
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
